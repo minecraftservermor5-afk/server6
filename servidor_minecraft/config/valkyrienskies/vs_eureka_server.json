@@ -41,6 +41,6 @@
   "ballastWeight" : 10000.0,
   "ballastNoWeight" : 1000.0,
   "allowDisassembly" : true,
-  "maxShipBlocks" : 32768,
+  "maxShipBlocks" : 327680000,
   "$schema" : "schemas/vs_eureka_server.schema.json"
 }

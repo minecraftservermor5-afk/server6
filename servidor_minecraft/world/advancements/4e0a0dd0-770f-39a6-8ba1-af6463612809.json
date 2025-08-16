@@ -183,6 +183,7 @@
       "minecraft:witch": "2025-08-05 02:49:20 +0000",
       "minecraft:wither_skeleton": "2025-08-08 18:55:02 +0000",
       "minecraft:cave_spider": "2025-08-13 02:32:09 +0000",
+      "minecraft:piglin": "2025-08-15 21:12:57 +0000",
       "minecraft:enderman": "2025-08-08 19:55:41 +0000",
       "minecraft:zombie": "2025-08-05 02:15:29 +0000"
     },
@@ -507,6 +508,12 @@
   "jurassic_additions:dino_plushies": {
     "criteria": {
       "dino_plushies_0": "2025-08-14 02:49:19 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-08-15 21:24:44 +0000"
     },
     "done": true
   },
