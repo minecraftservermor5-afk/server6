@@ -7811,3 +7811,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Aug2025 01:34:09.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [16Aug2025 01:39:09.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [16Aug2025 01:39:09.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[16Aug2025 01:44:09.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[16Aug2025 01:44:09.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[16Aug2025 01:49:09.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[16Aug2025 01:49:09.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[16Aug2025 01:50:24.018] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ClientboundMapItemDataPacketMixin from create.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[16Aug2025 01:50:24.036] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing accessors.network.protocol.game.ClientboundSectionBlocksUpdatePacketAccessor from valkyrienskies-common.mixins.json into net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket
+[16Aug2025 01:50:33.945] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[16Aug2025 01:50:33.945] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[16Aug2025 01:50:33.945] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[16Aug2025 01:50:33.945] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
